@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/food-order-with-reduxToolkit/static/css/main.35b4eef4.css",
-    "main.js": "/food-order-with-reduxToolkit/static/js/main.3ca6b785.js",
+    "main.css": "/food-order-with-reduxToolkit/static/css/main.5c1273f8.css",
+    "main.js": "/food-order-with-reduxToolkit/static/js/main.faf0ed69.js",
     "index.html": "/food-order-with-reduxToolkit/index.html",
-    "main.35b4eef4.css.map": "/food-order-with-reduxToolkit/static/css/main.35b4eef4.css.map",
-    "main.3ca6b785.js.map": "/food-order-with-reduxToolkit/static/js/main.3ca6b785.js.map"
+    "main.5c1273f8.css.map": "/food-order-with-reduxToolkit/static/css/main.5c1273f8.css.map",
+    "main.faf0ed69.js.map": "/food-order-with-reduxToolkit/static/js/main.faf0ed69.js.map"
   },
   "entrypoints": [
-    "static/css/main.35b4eef4.css",
-    "static/js/main.3ca6b785.js"
+    "static/css/main.5c1273f8.css",
+    "static/js/main.faf0ed69.js"
   ]
 }
